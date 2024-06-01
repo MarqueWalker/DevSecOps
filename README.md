@@ -61,6 +61,7 @@ DevSecOps incorporates automated security tools and tests into the CI/CD pipelin
 
 
 # Discovery
+
 <p align="center">
 The earlier we remediate, the better   <br/>
  <img src="https://imgur.com/jcnKQuM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -78,6 +79,17 @@ Implementing security measures   <br/>
 
 
 The common mistake companies make is adding security only after the deployment stage. Therefore, it's crucial to implement security measures during the development phase and integrate them into every stage of our iterations. Each phase will demand different approaches and tools, but it's essential to have security embedded throughout the entire process.
+
+<p align="center">
+Implementing DevSecOps in DevOps   <br/>
+ <img src="https://imgur.com/FASbiCV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
+To achieve this, relying solely on a central, isolated security team is not feasible. We need to shift the paradigm, making security the responsibility of every individual involved. Product owners and project managers must consider security when conceptualizing features, while developers need to implement these features in accordance with security guidelines and best practices. Testers should not only focus on functionality but also conduct security testing, and so on.
+
 
 
 
