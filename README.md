@@ -19,3 +19,5 @@ What is DevOps ???  <br/>
 A DevOps Engineer's role is to automate the Software Development Lifecycle (SDLC), represented by the infinity symbol that illustrates the continuous flow between development and operations. As a DevOps Engineer, you bridge the gap between these two areas, automating processes to ensure everything runs smoothly within the SDLC.
 
 Planning Phase: involves using agile practices, such as Scrum. Essentially, it entails organizing your work, breaking it into smaller tasks, and assigning these tasks to team members for execution.
+
+Coding Phase: developers write code and push it to a GitHub repository. Multiple engineers often collaborate on an application, with each developer contributing their code to version control, ensuring that all changes are tracked and integrated.
