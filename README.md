@@ -30,6 +30,9 @@ Continuous Integration allows developers to merge their code into the main branc
 Release Phase (CD - Continuous Delivery/Deployment):
 The release phase involves Continuous Delivery (CD) or Continuous Deployment. Though similar, these two have slight differences. After compiling and testing your code to ensure it is safe for deployment, the CD process takes over. This phase deploys or releases the code to the server. Often, this step includes a manual approval gate, where a team lead or manager authorizes the deployment to proceed. Once approved, the code is deployed to the production environment.
 
+Operate/Monitor
+During the operate and monitor phase: applications are maintained and continuously observed for issues. Engineers ensure high availability and track any problems that arise. This phase generates valuable feedback, highlighting problems and limitations, which feeds directly back into the planning phase, completing and repeating the cycle.
+
 
 
 
