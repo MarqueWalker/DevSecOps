@@ -37,3 +37,21 @@ During the operate and monitor phase: applications are maintained and continuous
 
 
 
+
+while DevOps improves collaboration and efficiency between development and operations, it often neglects security. DevSecOps addresses this gap by integrating security into every phase of the development process, leading to more secure, reliable, and compliant software.
+
+
+
+
+# What are the challenges associated with DevOps?
+
+
+One of the main issues with traditional DevOps is that security is often treated as an afterthought. The primary focus is on accelerating development and deployment, which can result in vulnerabilities being discovered too late in the process. This delay makes security issues more costly and challenging to resolve. Additionally, DevOps teams are usually composed of developers and operations personnel who may not have specialized expertise in security. This lack of security knowledge can lead to insufficient security practices and the oversight of critical vulnerabilities, leaving applications exposed to potential threats.
+
+<p align="center">
+What is DevSecOps ???  <br/>
+ <img src="https://imgur.com/JenmCXJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
