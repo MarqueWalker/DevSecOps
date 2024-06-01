@@ -60,6 +60,18 @@ DevSecOps incorporates automated security tools and tests into the CI/CD pipelin
 
 
 
+
+<p align="center">
+The earlier we remediate, the better   <br/>
+ <img src="https://imgur.com/jcnKQuM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+Discovering a security bug in production is far from ideal; it's already too late. In fact, the cost of fixing bugs and security issues escalates as we progress through the stages of the DevOps flow. If we fail to catch these issues in time because security measures are only applied after deployment, the consequences of a breach can be catastrophic.
+
+
+
+
 # DevSecOps Tools
 When discussing DevSecOps, the software development cycle includes multiple checkpoints to identify and resolve bugs and vulnerabilities, ensuring the application functions as intended. The goal is to deploy high-quality software with confidence, achieved through the use of various tools at different stages.
 
@@ -83,11 +95,6 @@ DevSecOps Tools   <br/>
 Embedding security earlier in the software development lifecycle leads to bug-free features and satisfied customers. Implement security checkpoints at each stage and ensure developers understand that security is a shared responsibility. Manage and secure your software and build artifacts by scanning them at every stage of the pipeline using appropriate tools and techniques.
 
 
-<p align="center">
-The earlier we remediate, the better   <br/>
- <img src="https://imgur.com/jcnKQuM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
 
 
