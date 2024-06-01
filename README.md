@@ -90,6 +90,14 @@ Implementing DevSecOps in DevOps   <br/>
 
 To achieve this, relying solely on a central, isolated security team is not feasible. We need to shift the paradigm, making security the responsibility of every individual involved. Product owners and project managers must consider security when conceptualizing features, while developers need to implement these features in accordance with security guidelines and best practices. Testers should not only focus on functionality but also conduct security testing, and so on.
 
+<p align="center">
+Collaborating with cross-functional teams   <br/>
+ <img src="https://imgur.com/cqQGQut.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+The development team should adhere to best practices and guidelines set by the security team. However, security teams need to transition from being the sole point of contact for security issues to a role where they support and assist all other functions. As is customary in DevOps, the ultimate goal is to have a cross-functional, cross-discipline team rather than separate siloed teams.
+
 
 
 
