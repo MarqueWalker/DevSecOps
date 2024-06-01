@@ -21,3 +21,8 @@ A DevOps Engineer's role is to automate the Software Development Lifecycle (SDLC
 Planning Phase: involves using agile practices, such as Scrum. Essentially, it entails organizing your work, breaking it into smaller tasks, and assigning these tasks to team members for execution.
 
 Coding Phase: developers write code and push it to a GitHub repository. Multiple engineers often collaborate on an application, with each developer contributing their code to version control, ensuring that all changes are tracked and integrated.
+
+Building/Test Phase (CI - Continuous Integration)
+The building and test phase, also known as Continuous Integration (CI), involves committing your code to version control, which initiates a build of your artifact and runs various tests. These tests can include performance tests, bug tests, and code quality tests.
+Continuous Integration allows developers to merge their code into the main branch multiple times a day. Each merge triggers a build, similar to compiling, followed by a series of tests. The goal is to produce a deployable artifact, whether it's a binary, a container, or another form, ensuring that the code version is safe for deployment.
+
