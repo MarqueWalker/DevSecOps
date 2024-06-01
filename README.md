@@ -70,6 +70,15 @@ The earlier we remediate, the better   <br/>
 Discovering a security bug in production is far from ideal; it's already too late. In fact, the cost of fixing bugs and security issues escalates as we progress through the stages of the DevOps flow. If we fail to catch these issues in time because security measures are only applied after deployment, the consequences of a breach can be catastrophic.
 
 
+<p align="center">
+Implementing security measures   <br/>
+ <img src="https://imgur.com/xK6LInH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+The common mistake companies make is adding security only after the deployment stage. Therefore, it's crucial to implement security measures during the development phase and integrate them into every stage of our iterations. Each phase will demand different approaches and tools, but it's essential to have security embedded throughout the entire process.
+
 
 
 # DevSecOps Tools
@@ -85,6 +94,8 @@ DevSecOps Tools   <br/>
 
 
 It's essential to choose tools that not only align with your process but are also preferred by your team members. Opt for developer-friendly tools that are easy to use, fast, and reliable. Additionally, consider having these tools available both locally and in your Continuous Integration (CI) environment. This allows developers to run the tools on their machines before committing the code to remote branches or opening pull requests. When it comes to security, prioritize tools with a low false positive rate to avoid wasting time investigating numerous false positives. Also, ensure to incorporate tools specific to your technologies and services into your pipeline.
+
+
 
 
 # DevSecOps best practices, including:
