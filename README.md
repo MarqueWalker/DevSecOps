@@ -4,7 +4,8 @@ DevSecOps is an essential methodology that integrates security practices into th
 #
 
 <p align="center">
-DevOps Original Thought  <br/>
+What is DevOps ???  <br/>
  <img src="https://imgur.com/jXwqakf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
