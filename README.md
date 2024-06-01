@@ -16,3 +16,6 @@ What is DevOps ???  <br/>
 <br />
 <br />
 
+A DevOps Engineer's role is to automate the Software Development Lifecycle (SDLC), represented by the infinity symbol that illustrates the continuous flow between development and operations. As a DevOps Engineer, you bridge the gap between these two areas, automating processes to ensure everything runs smoothly within the SDLC.
+
+
