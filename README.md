@@ -22,7 +22,15 @@ Planning Phase: involves using agile practices, such as Scrum. Essentially, it e
 
 Coding Phase: developers write code and push it to a GitHub repository. Multiple engineers often collaborate on an application, with each developer contributing their code to version control, ensuring that all changes are tracked and integrated.
 
-Building/Test Phase (CI - Continuous Integration)
+Building/Test Phase (CI - Continuous Integration):
 The building and test phase, also known as Continuous Integration (CI), involves committing your code to version control, which initiates a build of your artifact and runs various tests. These tests can include performance tests, bug tests, and code quality tests.
 Continuous Integration allows developers to merge their code into the main branch multiple times a day. Each merge triggers a build, similar to compiling, followed by a series of tests. The goal is to produce a deployable artifact, whether it's a binary, a container, or another form, ensuring that the code version is safe for deployment.
+
+
+Release Phase (CD - Continuous Delivery/Deployment):
+The release phase involves Continuous Delivery (CD) or Continuous Deployment. Though similar, these two have slight differences. After compiling and testing your code to ensure it is safe for deployment, the CD process takes over. This phase deploys or releases the code to the server. Often, this step includes a manual approval gate, where a team lead or manager authorizes the deployment to proceed. Once approved, the code is deployed to the production environment.
+
+
+
+
 
