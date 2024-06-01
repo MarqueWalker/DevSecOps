@@ -60,7 +60,7 @@ DevSecOps incorporates automated security tools and tests into the CI/CD pipelin
 
 
 
-
+# Discovery
 <p align="center">
 The earlier we remediate, the better   <br/>
  <img src="https://imgur.com/jcnKQuM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -82,6 +82,9 @@ DevSecOps Tools   <br/>
  <img src="https://imgur.com/roPhFXM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+
+It's essential to choose tools that not only align with your process but are also preferred by your team members. Opt for developer-friendly tools that are easy to use, fast, and reliable. Additionally, consider having these tools available both locally and in your Continuous Integration (CI) environment. This allows developers to run the tools on their machines before committing the code to remote branches or opening pull requests. When it comes to security, prioritize tools with a low false positive rate to avoid wasting time investigating numerous false positives. Also, ensure to incorporate tools specific to your technologies and services into your pipeline.
 
 
 # DevSecOps best practices, including:
