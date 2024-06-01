@@ -50,11 +50,14 @@ Implementing DevSecOps in DevOps   <br/>
 <br />
 
 
+
+
 # Why DevSecOps is the Better Option ???
 
 DevSecOps addresses these shortcomings by integrating security into every stage of the software development lifecycle. Unlike traditional DevOps, it ensures security is a priority from the start. This proactive approach helps identify and mitigate vulnerabilities early, reducing risks and costs. Additionally, DevSecOps enhances collaboration between development, operations, and security teams, ensuring consistent implementation of security requirements.
 
 DevSecOps incorporates automated security tools and tests into the CI/CD pipeline, ensuring continuous monitoring and compliance checks. This reduces human error and improves efficiency. It fosters a culture of continuous improvement, regularly updating security measures based on emerging threats and feedback. By embedding compliance checks into the development process, DevSecOps helps organizations meet regulatory requirements and adhere to industry standards. In summary, DevSecOps provides a more secure, reliable, and compliant approach to software development than traditional DevOps.
+
 
 
 # DevSecOps Tools
@@ -78,6 +81,15 @@ DevSecOps Tools   <br/>
 * Proactively monitor the security of production deployments.
 
 Embedding security earlier in the software development lifecycle leads to bug-free features and satisfied customers. Implement security checkpoints at each stage and ensure developers understand that security is a shared responsibility. Manage and secure your software and build artifacts by scanning them at every stage of the pipeline using appropriate tools and techniques.
+
+
+<p align="center">
+The earlier we remediate, the better   <br/>
+ <img src="https://imgur.com/jcnKQuM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
 
 # In Conclusion
 In a world where security breaches can cause significant long-term damage to organizations, implementing effective security measures is crucial. DevSecOps provides a natural and necessary step towards ensuring software quality and timely delivery without compromising engineers. By integrating security into every stage of development, DevSecOps helps organizations remain competitive in the market while maintaining high standards of safety and reliability.
